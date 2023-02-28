@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Image_Statistics\Image-Statistics\image_UI\bin\Debug\image_UI.exe.config
+C:\Users\HP\Desktop\Image_Statistics\Image-Statistics\image_UI\bin\Debug\image_UI.exe
+C:\Users\HP\Desktop\Image_Statistics\Image-Statistics\image_UI\bin\Debug\image_UI.pdb
+C:\Users\HP\Desktop\Image_Statistics\Image-Statistics\image_UI\obj\Debug\image_UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Image_Statistics\Image-Statistics\image_UI\obj\Debug\image_UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Image_Statistics\Image-Statistics\image_UI\obj\Debug\image_UI.Form1.resources
+C:\Users\HP\Desktop\Image_Statistics\Image-Statistics\image_UI\obj\Debug\image_UI.Properties.Resources.resources
+C:\Users\HP\Desktop\Image_Statistics\Image-Statistics\image_UI\obj\Debug\image_UI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Image_Statistics\Image-Statistics\image_UI\obj\Debug\image_UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Image_Statistics\Image-Statistics\image_UI\obj\Debug\image_UI.exe
+C:\Users\HP\Desktop\Image_Statistics\Image-Statistics\image_UI\obj\Debug\image_UI.pdb
